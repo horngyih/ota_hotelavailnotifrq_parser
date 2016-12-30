@@ -14,5 +14,9 @@
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/horngyih/ota_hotelavailnotifrq_parser/issues"
+  },
+  "dependencies": {
+    "xmldom": "^0.1.27",
+    "xpath": "0.0.23"
   }
 }

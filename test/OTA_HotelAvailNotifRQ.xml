@@ -1,0 +1,23 @@
+<OTA_HotelAvailNotifRQ MessageContentCode="3" EchoToken="BHS-PROD-1483001442951" TimeStamp="2016-12-29T16:50:49.582+08:00" Version="1" CorrelationID="BHS-PROD-1483001442951" xmlns="http://www.opentravel.org/OTA/2003/05">
+    <AvailStatusMessages HotelCode="BHS">
+        <AvailStatusMessage BookingLimitMessageType="SetLimit" BookingLimit="2">
+            <StatusApplicationControl InvTypeCode="JS" RatePlanCode="BAR3" Start="2017-01-01" End="2017-01-02" />
+            <RestrictionStatus Restriction="Master" Status="Open" />
+        </AvailStatusMessage>
+        <AvailStatusMessage>
+            <StatusApplicationControl InvTypeCode="JS" RatePlanCode="BAR3" Start="2017-01-01" End="2017-01-02" />
+            <RestrictionStatus Restriction="Arrival" Status="Open" />
+        </AvailStatusMessage>
+        <AvailStatusMessage>
+            <StatusApplicationControl InvTypeCode="JS" RatePlanCode="BAR3" Start="2017-01-01" End="2017-01-02" />
+            <RestrictionStatus Restriction="Departure" Status="Open" />
+        </AvailStatusMessage>
+        <AvailStatusMessage>
+            <StatusApplicationControl InvTypeCode="JS" RatePlanCode="BAR3" Start="2017-01-01" End="2017-01-02" />
+            <RestrictionStatus Restriction="TravelAgent" Status="Open" />
+        </AvailStatusMessage>
+        <AvailStatusMessage BookingLimitMessageType="SetLimit" BookingLimit="2">
+            <StatusApplicationControl InvTypeCode="JS" RatePlanCode="BAR3" Start="2017-01-01" End="2017-01-02" />
+        </AvailStatusMessage>
+    </AvailStatusMessages>
+</OTA_HotelAvailNotifRQ>

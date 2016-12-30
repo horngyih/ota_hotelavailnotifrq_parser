@@ -1,23 +1,340 @@
-<OTA_HotelAvailNotifRQ MessageContentCode="3" EchoToken="BHS-PROD-1483001442951" TimeStamp="2016-12-29T16:50:49.582+08:00" Version="1" CorrelationID="BHS-PROD-1483001442951" xmlns="http://www.opentravel.org/OTA/2003/05">
+<OTA_HotelAvailNotifRQ MessageContentCode="3" EchoToken="1438175702313" TimeStamp="2015-07-29T21:16:45.071+08:00" Version="1" CorrelationID="1438175702313" xmlns="http://www.opentravel.org/OTA/2003/05">
     <AvailStatusMessages HotelCode="BHS">
+        <AvailStatusMessage BookingLimitMessageType="SetLimit" BookingLimit="8">
+            <StatusApplicationControl Start="2015-09-01" End="2015-09-02" InvTypeCode="SDT" RatePlanCode="BAR3" />
+        </AvailStatusMessage>
+        <AvailStatusMessage BookingLimitMessageType="SetLimit" BookingLimit="8">
+            <StatusApplicationControl Start="2015-09-12" End="2015-09-12" InvTypeCode="SDT" RatePlanCode="BAR3" />
+        </AvailStatusMessage>
+        <AvailStatusMessage BookingLimitMessageType="SetLimit" BookingLimit="5">
+            <StatusApplicationControl Start="2015-08-26" End="2015-08-26" InvTypeCode="SDT" RatePlanCode="BAR3" />
+        </AvailStatusMessage>
+        <AvailStatusMessage BookingLimitMessageType="SetLimit" BookingLimit="20">
+            <StatusApplicationControl Start="2015-09-16" End="2015-09-19" InvTypeCode="SDT" RatePlanCode="BAR3" />
+        </AvailStatusMessage>
+        <AvailStatusMessage BookingLimitMessageType="SetLimit" BookingLimit="20">
+            <StatusApplicationControl Start="2015-11-28" End="2015-11-28" InvTypeCode="SDT" RatePlanCode="BAR3" />
+        </AvailStatusMessage>
+        <AvailStatusMessage BookingLimitMessageType="SetLimit" BookingLimit="20">
+            <StatusApplicationControl Start="2015-12-14" End="2015-12-18" InvTypeCode="SDT" RatePlanCode="BAR3" />
+        </AvailStatusMessage>
+        <AvailStatusMessage BookingLimitMessageType="SetLimit" BookingLimit="20">
+            <StatusApplicationControl Start="2015-11-16" End="2015-11-16" InvTypeCode="SDT" RatePlanCode="BAR3" />
+        </AvailStatusMessage>
+        <AvailStatusMessage BookingLimitMessageType="SetLimit" BookingLimit="20">
+            <StatusApplicationControl Start="2015-10-08" End="2015-10-08" InvTypeCode="SDT" RatePlanCode="BAR3" />
+        </AvailStatusMessage>
+        <AvailStatusMessage BookingLimitMessageType="SetLimit" BookingLimit="20">
+            <StatusApplicationControl Start="2015-12-08" End="2015-12-09" InvTypeCode="SDT" RatePlanCode="BAR3" />
+        </AvailStatusMessage>
+        <AvailStatusMessage BookingLimitMessageType="SetLimit" BookingLimit="20">
+            <StatusApplicationControl Start="2015-11-30" End="2015-11-30" InvTypeCode="SDT" RatePlanCode="BAR3" />
+        </AvailStatusMessage>
+        <AvailStatusMessage BookingLimitMessageType="SetLimit" BookingLimit="20">
+            <StatusApplicationControl Start="2015-11-19" End="2015-11-19" InvTypeCode="SDT" RatePlanCode="BAR3" />
+        </AvailStatusMessage>
+        <AvailStatusMessage BookingLimitMessageType="SetLimit" BookingLimit="20">
+            <StatusApplicationControl Start="2015-11-22" End="2015-11-24" InvTypeCode="SDT" RatePlanCode="BAR3" />
+        </AvailStatusMessage>
+        <AvailStatusMessage BookingLimitMessageType="SetLimit" BookingLimit="20">
+            <StatusApplicationControl Start="2015-12-24" End="2015-12-24" InvTypeCode="SDT" RatePlanCode="BAR3" />
+        </AvailStatusMessage>
         <AvailStatusMessage BookingLimitMessageType="SetLimit" BookingLimit="2">
-            <StatusApplicationControl InvTypeCode="JS" RatePlanCode="BAR3" Start="2017-01-01" End="2017-01-02" />
-            <RestrictionStatus Restriction="Master" Status="Open" />
+            <StatusApplicationControl Start="2015-09-04" End="2015-09-05" InvTypeCode="SDT" RatePlanCode="BAR3" />
+        </AvailStatusMessage>
+        <AvailStatusMessage BookingLimitMessageType="SetLimit" BookingLimit="0">
+            <StatusApplicationControl Start="2015-08-27" End="2015-08-31" InvTypeCode="SDT" RatePlanCode="BAR3" />
+        </AvailStatusMessage>
+        <AvailStatusMessage BookingLimitMessageType="SetLimit" BookingLimit="0">
+            <StatusApplicationControl Start="2015-07-30" End="2015-08-11" InvTypeCode="SDT" RatePlanCode="BAR3" />
+        </AvailStatusMessage>
+        <AvailStatusMessage BookingLimitMessageType="SetLimit" BookingLimit="0">
+            <StatusApplicationControl Start="2015-08-14" End="2015-08-25" InvTypeCode="SDT" RatePlanCode="BAR3" />
+        </AvailStatusMessage>
+        <AvailStatusMessage BookingLimitMessageType="SetLimit" BookingLimit="1">
+            <StatusApplicationControl Start="2015-09-03" End="2015-09-03" InvTypeCode="SDT" RatePlanCode="BAR3" />
+        </AvailStatusMessage>
+        <AvailStatusMessage BookingLimitMessageType="SetLimit" BookingLimit="1">
+            <StatusApplicationControl Start="2015-08-12" End="2015-08-13" InvTypeCode="SDT" RatePlanCode="BAR3" />
+        </AvailStatusMessage>
+        <AvailStatusMessage BookingLimitMessageType="SetLimit" BookingLimit="1">
+            <StatusApplicationControl Start="2015-07-29" End="2015-07-29" InvTypeCode="SDT" RatePlanCode="BAR3" />
+        </AvailStatusMessage>
+        <AvailStatusMessage BookingLimitMessageType="SetLimit" BookingLimit="12">
+            <StatusApplicationControl Start="2015-10-23" End="2015-10-24" InvTypeCode="SDT" RatePlanCode="BAR3" />
+        </AvailStatusMessage>
+        <AvailStatusMessage BookingLimitMessageType="SetLimit" BookingLimit="12">
+            <StatusApplicationControl Start="2015-10-05" End="2015-10-05" InvTypeCode="SDT" RatePlanCode="BAR3" />
+        </AvailStatusMessage>
+        <AvailStatusMessage BookingLimitMessageType="SetLimit" BookingLimit="12">
+            <StatusApplicationControl Start="2015-09-11" End="2015-09-11" InvTypeCode="SDT" RatePlanCode="BAR3" />
+        </AvailStatusMessage>
+        <AvailStatusMessage BookingLimitMessageType="SetLimit" BookingLimit="11">
+            <StatusApplicationControl Start="2015-10-04" End="2015-10-04" InvTypeCode="SDT" RatePlanCode="BAR3" />
+        </AvailStatusMessage>
+        <AvailStatusMessage BookingLimitMessageType="RemoveLimit">
+            <StatusApplicationControl Start="2015-08-27" End="2015-08-31" InvTypeCode="SDT" RatePlanCode="BAR3" />
+            <RestrictionStatus Restriction="Master" Status="Close" />
         </AvailStatusMessage>
         <AvailStatusMessage>
-            <StatusApplicationControl InvTypeCode="JS" RatePlanCode="BAR3" Start="2017-01-01" End="2017-01-02" />
+            <StatusApplicationControl Start="2015-08-27" End="2015-08-31" InvTypeCode="SDT" RatePlanCode="BAR3" />
             <RestrictionStatus Restriction="Arrival" Status="Open" />
         </AvailStatusMessage>
         <AvailStatusMessage>
-            <StatusApplicationControl InvTypeCode="JS" RatePlanCode="BAR3" Start="2017-01-01" End="2017-01-02" />
+            <StatusApplicationControl Start="2015-08-27" End="2015-08-31" InvTypeCode="SDT" RatePlanCode="BAR3" />
             <RestrictionStatus Restriction="Departure" Status="Open" />
         </AvailStatusMessage>
         <AvailStatusMessage>
-            <StatusApplicationControl InvTypeCode="JS" RatePlanCode="BAR3" Start="2017-01-01" End="2017-01-02" />
+            <StatusApplicationControl Start="2015-08-27" End="2015-08-31" InvTypeCode="SDT" RatePlanCode="BAR3" />
             <RestrictionStatus Restriction="TravelAgent" Status="Open" />
         </AvailStatusMessage>
-        <AvailStatusMessage BookingLimitMessageType="SetLimit" BookingLimit="2">
-            <StatusApplicationControl InvTypeCode="JS" RatePlanCode="BAR3" Start="2017-01-01" End="2017-01-02" />
+        <AvailStatusMessage BookingLimitMessageType="RemoveLimit">
+            <StatusApplicationControl Start="2015-07-30" End="2015-08-11" InvTypeCode="SDT" RatePlanCode="BAR3" />
+            <RestrictionStatus Restriction="Master" Status="Close" />
+        </AvailStatusMessage>
+        <AvailStatusMessage>
+            <StatusApplicationControl Start="2015-07-30" End="2015-08-11" InvTypeCode="SDT" RatePlanCode="BAR3" />
+            <RestrictionStatus Restriction="Arrival" Status="Open" />
+        </AvailStatusMessage>
+        <AvailStatusMessage>
+            <StatusApplicationControl Start="2015-07-30" End="2015-08-11" InvTypeCode="SDT" RatePlanCode="BAR3" />
+            <RestrictionStatus Restriction="Departure" Status="Open" />
+        </AvailStatusMessage>
+        <AvailStatusMessage>
+            <StatusApplicationControl Start="2015-07-30" End="2015-08-11" InvTypeCode="SDT" RatePlanCode="BAR3" />
+            <RestrictionStatus Restriction="TravelAgent" Status="Open" />
+        </AvailStatusMessage>
+        <AvailStatusMessage BookingLimitMessageType="RemoveLimit">
+            <StatusApplicationControl Start="2015-08-14" End="2015-08-25" InvTypeCode="SDT" RatePlanCode="BAR3" />
+            <RestrictionStatus Restriction="Master" Status="Close" />
+        </AvailStatusMessage>
+        <AvailStatusMessage>
+            <StatusApplicationControl Start="2015-08-14" End="2015-08-25" InvTypeCode="SDT" RatePlanCode="BAR3" />
+            <RestrictionStatus Restriction="Arrival" Status="Open" />
+        </AvailStatusMessage>
+        <AvailStatusMessage>
+            <StatusApplicationControl Start="2015-08-14" End="2015-08-25" InvTypeCode="SDT" RatePlanCode="BAR3" />
+            <RestrictionStatus Restriction="Departure" Status="Open" />
+        </AvailStatusMessage>
+        <AvailStatusMessage>
+            <StatusApplicationControl Start="2015-08-14" End="2015-08-25" InvTypeCode="SDT" RatePlanCode="BAR3" />
+            <RestrictionStatus Restriction="TravelAgent" Status="Open" />
+        </AvailStatusMessage>
+        <AvailStatusMessage BookingLimitMessageType="SetLimit" BookingLimit="15">
+            <StatusApplicationControl Start="2015-09-26" End="2015-09-26" InvTypeCode="SDT" RatePlanCode="BAR3" />
+        </AvailStatusMessage>
+        <AvailStatusMessage BookingLimitMessageType="SetLimit" BookingLimit="15">
+            <StatusApplicationControl Start="2015-11-04" End="2015-11-04" InvTypeCode="SDT" RatePlanCode="BAR3" />
+        </AvailStatusMessage>
+        <AvailStatusMessage BookingLimitMessageType="SetLimit" BookingLimit="15">
+            <StatusApplicationControl Start="2015-09-14" End="2015-09-14" InvTypeCode="SDT" RatePlanCode="BAR3" />
+        </AvailStatusMessage>
+        <AvailStatusMessage BookingLimitMessageType="SetLimit" BookingLimit="15">
+            <StatusApplicationControl Start="2015-12-11" End="2015-12-12" InvTypeCode="SDT" RatePlanCode="BAR3" />
+        </AvailStatusMessage>
+        <AvailStatusMessage BookingLimitMessageType="SetLimit" BookingLimit="15">
+            <StatusApplicationControl Start="2015-09-10" End="2015-09-10" InvTypeCode="SDT" RatePlanCode="BAR3" />
+        </AvailStatusMessage>
+        <AvailStatusMessage BookingLimitMessageType="RemoveLimit">
+            <StatusApplicationControl Start="2015-08-12" End="2015-08-13" InvTypeCode="SDT" RatePlanCode="BAR3" />
+            <RestrictionStatus Restriction="Master" Status="Close" />
+        </AvailStatusMessage>
+        <AvailStatusMessage>
+            <StatusApplicationControl Start="2015-08-12" End="2015-08-13" InvTypeCode="SDT" RatePlanCode="BAR3" />
+            <RestrictionStatus Restriction="Arrival" Status="Open" />
+        </AvailStatusMessage>
+        <AvailStatusMessage>
+            <StatusApplicationControl Start="2015-08-12" End="2015-08-13" InvTypeCode="SDT" RatePlanCode="BAR3" />
+            <RestrictionStatus Restriction="Departure" Status="Open" />
+        </AvailStatusMessage>
+        <AvailStatusMessage>
+            <StatusApplicationControl Start="2015-08-12" End="2015-08-13" InvTypeCode="SDT" RatePlanCode="BAR3" />
+            <RestrictionStatus Restriction="TravelAgent" Status="Open" />
+        </AvailStatusMessage>
+        <AvailStatusMessage BookingLimitMessageType="RemoveLimit">
+            <StatusApplicationControl Start="2015-07-29" End="2015-07-29" InvTypeCode="SDT" RatePlanCode="BAR3" />
+            <RestrictionStatus Restriction="Master" Status="Close" />
+        </AvailStatusMessage>
+        <AvailStatusMessage>
+            <StatusApplicationControl Start="2015-07-29" End="2015-07-29" InvTypeCode="SDT" RatePlanCode="BAR3" />
+            <RestrictionStatus Restriction="Arrival" Status="Open" />
+        </AvailStatusMessage>
+        <AvailStatusMessage>
+            <StatusApplicationControl Start="2015-07-29" End="2015-07-29" InvTypeCode="SDT" RatePlanCode="BAR3" />
+            <RestrictionStatus Restriction="Departure" Status="Open" />
+        </AvailStatusMessage>
+        <AvailStatusMessage>
+            <StatusApplicationControl Start="2015-07-29" End="2015-07-29" InvTypeCode="SDT" RatePlanCode="BAR3" />
+            <RestrictionStatus Restriction="TravelAgent" Status="Open" />
+        </AvailStatusMessage>
+        <AvailStatusMessage BookingLimitMessageType="SetLimit" BookingLimit="16">
+            <StatusApplicationControl Start="2015-09-25" End="2015-09-25" InvTypeCode="SDT" RatePlanCode="BAR3" />
+        </AvailStatusMessage>
+        <AvailStatusMessage BookingLimitMessageType="SetLimit" BookingLimit="16">
+            <StatusApplicationControl Start="2015-09-08" End="2015-09-09" InvTypeCode="SDT" RatePlanCode="BAR3" />
+        </AvailStatusMessage>
+        <AvailStatusMessage BookingLimitMessageType="SetLimit" BookingLimit="16">
+            <StatusApplicationControl Start="2015-12-26" End="2015-12-29" InvTypeCode="SDT" RatePlanCode="BAR3" />
+        </AvailStatusMessage>
+        <AvailStatusMessage BookingLimitMessageType="SetLimit" BookingLimit="16">
+            <StatusApplicationControl Start="2015-10-25" End="2015-10-28" InvTypeCode="SDT" RatePlanCode="BAR3" />
+        </AvailStatusMessage>
+        <AvailStatusMessage BookingLimitMessageType="SetLimit" BookingLimit="16">
+            <StatusApplicationControl Start="2015-10-01" End="2015-10-02" InvTypeCode="SDT" RatePlanCode="BAR3" />
+        </AvailStatusMessage>
+        <AvailStatusMessage BookingLimitMessageType="SetLimit" BookingLimit="16">
+            <StatusApplicationControl Start="2015-09-28" End="2015-09-29" InvTypeCode="SDT" RatePlanCode="BAR3" />
+        </AvailStatusMessage>
+        <AvailStatusMessage BookingLimitMessageType="SetLimit" BookingLimit="16">
+            <StatusApplicationControl Start="2015-10-31" End="2015-10-31" InvTypeCode="SDT" RatePlanCode="BAR3" />
+        </AvailStatusMessage>
+        <AvailStatusMessage BookingLimitMessageType="SetLimit" BookingLimit="16">
+            <StatusApplicationControl Start="2015-10-20" End="2015-10-21" InvTypeCode="SDT" RatePlanCode="BAR3" />
+        </AvailStatusMessage>
+        <AvailStatusMessage BookingLimitMessageType="SetLimit" BookingLimit="14">
+            <StatusApplicationControl Start="2015-10-22" End="2015-10-22" InvTypeCode="SDT" RatePlanCode="BAR3" />
+        </AvailStatusMessage>
+        <AvailStatusMessage BookingLimitMessageType="SetLimit" BookingLimit="14">
+            <StatusApplicationControl Start="2015-09-06" End="2015-09-07" InvTypeCode="SDT" RatePlanCode="BAR3" />
+        </AvailStatusMessage>
+        <AvailStatusMessage BookingLimitMessageType="SetLimit" BookingLimit="14">
+            <StatusApplicationControl Start="2015-10-03" End="2015-10-03" InvTypeCode="SDT" RatePlanCode="BAR3" />
+        </AvailStatusMessage>
+        <AvailStatusMessage BookingLimitMessageType="SetLimit" BookingLimit="14">
+            <StatusApplicationControl Start="2015-09-13" End="2015-09-13" InvTypeCode="SDT" RatePlanCode="BAR3" />
+        </AvailStatusMessage>
+        <AvailStatusMessage BookingLimitMessageType="SetLimit" BookingLimit="19">
+            <StatusApplicationControl Start="2015-12-06" End="2015-12-07" InvTypeCode="SDT" RatePlanCode="BAR3" />
+        </AvailStatusMessage>
+        <AvailStatusMessage BookingLimitMessageType="SetLimit" BookingLimit="19">
+            <StatusApplicationControl Start="2015-11-17" End="2015-11-18" InvTypeCode="SDT" RatePlanCode="BAR3" />
+        </AvailStatusMessage>
+        <AvailStatusMessage BookingLimitMessageType="SetLimit" BookingLimit="19">
+            <StatusApplicationControl Start="2015-11-14" End="2015-11-15" InvTypeCode="SDT" RatePlanCode="BAR3" />
+        </AvailStatusMessage>
+        <AvailStatusMessage BookingLimitMessageType="SetLimit" BookingLimit="19">
+            <StatusApplicationControl Start="2015-11-25" End="2015-11-27" InvTypeCode="SDT" RatePlanCode="BAR3" />
+        </AvailStatusMessage>
+        <AvailStatusMessage BookingLimitMessageType="SetLimit" BookingLimit="19">
+            <StatusApplicationControl Start="2015-12-01" End="2015-12-04" InvTypeCode="SDT" RatePlanCode="BAR3" />
+        </AvailStatusMessage>
+        <AvailStatusMessage BookingLimitMessageType="SetLimit" BookingLimit="19">
+            <StatusApplicationControl Start="2015-11-10" End="2015-11-10" InvTypeCode="SDT" RatePlanCode="BAR3" />
+        </AvailStatusMessage>
+        <AvailStatusMessage BookingLimitMessageType="SetLimit" BookingLimit="19">
+            <StatusApplicationControl Start="2015-11-20" End="2015-11-20" InvTypeCode="SDT" RatePlanCode="BAR3" />
+        </AvailStatusMessage>
+        <AvailStatusMessage BookingLimitMessageType="SetLimit" BookingLimit="19">
+            <StatusApplicationControl Start="2015-11-29" End="2015-11-29" InvTypeCode="SDT" RatePlanCode="BAR3" />
+        </AvailStatusMessage>
+        <AvailStatusMessage BookingLimitMessageType="SetLimit" BookingLimit="19">
+            <StatusApplicationControl Start="2015-10-09" End="2015-10-09" InvTypeCode="SDT" RatePlanCode="BAR3" />
+        </AvailStatusMessage>
+        <AvailStatusMessage BookingLimitMessageType="SetLimit" BookingLimit="19">
+            <StatusApplicationControl Start="2015-10-18" End="2015-10-18" InvTypeCode="SDT" RatePlanCode="BAR3" />
+        </AvailStatusMessage>
+        <AvailStatusMessage BookingLimitMessageType="SetLimit" BookingLimit="19">
+            <StatusApplicationControl Start="2015-10-07" End="2015-10-07" InvTypeCode="SDT" RatePlanCode="BAR3" />
+        </AvailStatusMessage>
+        <AvailStatusMessage BookingLimitMessageType="SetLimit" BookingLimit="19">
+            <StatusApplicationControl Start="2015-10-14" End="2015-10-15" InvTypeCode="SDT" RatePlanCode="BAR3" />
+        </AvailStatusMessage>
+        <AvailStatusMessage BookingLimitMessageType="SetLimit" BookingLimit="19">
+            <StatusApplicationControl Start="2015-12-25" End="2015-12-25" InvTypeCode="SDT" RatePlanCode="BAR3" />
+        </AvailStatusMessage>
+        <AvailStatusMessage BookingLimitMessageType="SetLimit" BookingLimit="19">
+            <StatusApplicationControl Start="2015-12-19" End="2015-12-23" InvTypeCode="SDT" RatePlanCode="BAR3" />
+        </AvailStatusMessage>
+        <AvailStatusMessage BookingLimitMessageType="RemoveLimit">
+            <StatusApplicationControl Start="2015-08-26" End="2015-08-26" InvTypeCode="SDT" RatePlanCode="BAR3" />
+            <RestrictionStatus Restriction="Master" Status="Close" />
+        </AvailStatusMessage>
+        <AvailStatusMessage>
+            <StatusApplicationControl Start="2015-08-26" End="2015-08-26" InvTypeCode="SDT" RatePlanCode="BAR3" />
+            <RestrictionStatus Restriction="Arrival" Status="Open" />
+        </AvailStatusMessage>
+        <AvailStatusMessage>
+            <StatusApplicationControl Start="2015-08-26" End="2015-08-26" InvTypeCode="SDT" RatePlanCode="BAR3" />
+            <RestrictionStatus Restriction="Departure" Status="Open" />
+        </AvailStatusMessage>
+        <AvailStatusMessage>
+            <StatusApplicationControl Start="2015-08-26" End="2015-08-26" InvTypeCode="SDT" RatePlanCode="BAR3" />
+            <RestrictionStatus Restriction="TravelAgent" Status="Open" />
+        </AvailStatusMessage>
+        <AvailStatusMessage BookingLimitMessageType="SetLimit" BookingLimit="17">
+            <StatusApplicationControl Start="2015-10-13" End="2015-10-13" InvTypeCode="SDT" RatePlanCode="BAR3" />
+        </AvailStatusMessage>
+        <AvailStatusMessage BookingLimitMessageType="SetLimit" BookingLimit="17">
+            <StatusApplicationControl Start="2015-11-02" End="2015-11-03" InvTypeCode="SDT" RatePlanCode="BAR3" />
+        </AvailStatusMessage>
+        <AvailStatusMessage BookingLimitMessageType="SetLimit" BookingLimit="17">
+            <StatusApplicationControl Start="2015-09-24" End="2015-09-24" InvTypeCode="SDT" RatePlanCode="BAR3" />
+        </AvailStatusMessage>
+        <AvailStatusMessage BookingLimitMessageType="SetLimit" BookingLimit="17">
+            <StatusApplicationControl Start="2015-10-16" End="2015-10-16" InvTypeCode="SDT" RatePlanCode="BAR3" />
+        </AvailStatusMessage>
+        <AvailStatusMessage BookingLimitMessageType="SetLimit" BookingLimit="17">
+            <StatusApplicationControl Start="2015-10-06" End="2015-10-06" InvTypeCode="SDT" RatePlanCode="BAR3" />
+        </AvailStatusMessage>
+        <AvailStatusMessage BookingLimitMessageType="SetLimit" BookingLimit="17">
+            <StatusApplicationControl Start="2015-09-21" End="2015-09-22" InvTypeCode="SDT" RatePlanCode="BAR3" />
+        </AvailStatusMessage>
+        <AvailStatusMessage BookingLimitMessageType="SetLimit" BookingLimit="17">
+            <StatusApplicationControl Start="2015-09-30" End="2015-09-30" InvTypeCode="SDT" RatePlanCode="BAR3" />
+        </AvailStatusMessage>
+        <AvailStatusMessage BookingLimitMessageType="SetLimit" BookingLimit="17">
+            <StatusApplicationControl Start="2015-11-12" End="2015-11-12" InvTypeCode="SDT" RatePlanCode="BAR3" />
+        </AvailStatusMessage>
+        <AvailStatusMessage BookingLimitMessageType="SetLimit" BookingLimit="18">
+            <StatusApplicationControl Start="2015-12-05" End="2015-12-05" InvTypeCode="SDT" RatePlanCode="BAR3" />
+        </AvailStatusMessage>
+        <AvailStatusMessage BookingLimitMessageType="SetLimit" BookingLimit="18">
+            <StatusApplicationControl Start="2015-11-21" End="2015-11-21" InvTypeCode="SDT" RatePlanCode="BAR3" />
+        </AvailStatusMessage>
+        <AvailStatusMessage BookingLimitMessageType="SetLimit" BookingLimit="18">
+            <StatusApplicationControl Start="2015-11-05" End="2015-11-09" InvTypeCode="SDT" RatePlanCode="BAR3" />
+        </AvailStatusMessage>
+        <AvailStatusMessage BookingLimitMessageType="SetLimit" BookingLimit="18">
+            <StatusApplicationControl Start="2015-09-15" End="2015-09-15" InvTypeCode="SDT" RatePlanCode="BAR3" />
+        </AvailStatusMessage>
+        <AvailStatusMessage BookingLimitMessageType="SetLimit" BookingLimit="18">
+            <StatusApplicationControl Start="2015-11-01" End="2015-11-01" InvTypeCode="SDT" RatePlanCode="BAR3" />
+        </AvailStatusMessage>
+        <AvailStatusMessage BookingLimitMessageType="SetLimit" BookingLimit="18">
+            <StatusApplicationControl Start="2015-11-13" End="2015-11-13" InvTypeCode="SDT" RatePlanCode="BAR3" />
+        </AvailStatusMessage>
+        <AvailStatusMessage BookingLimitMessageType="SetLimit" BookingLimit="18">
+            <StatusApplicationControl Start="2015-10-29" End="2015-10-30" InvTypeCode="SDT" RatePlanCode="BAR3" />
+        </AvailStatusMessage>
+        <AvailStatusMessage BookingLimitMessageType="SetLimit" BookingLimit="18">
+            <StatusApplicationControl Start="2015-11-11" End="2015-11-11" InvTypeCode="SDT" RatePlanCode="BAR3" />
+        </AvailStatusMessage>
+        <AvailStatusMessage BookingLimitMessageType="SetLimit" BookingLimit="18">
+            <StatusApplicationControl Start="2015-10-19" End="2015-10-19" InvTypeCode="SDT" RatePlanCode="BAR3" />
+        </AvailStatusMessage>
+        <AvailStatusMessage BookingLimitMessageType="SetLimit" BookingLimit="18">
+            <StatusApplicationControl Start="2015-09-27" End="2015-09-27" InvTypeCode="SDT" RatePlanCode="BAR3" />
+        </AvailStatusMessage>
+        <AvailStatusMessage BookingLimitMessageType="SetLimit" BookingLimit="18">
+            <StatusApplicationControl Start="2015-09-20" End="2015-09-20" InvTypeCode="SDT" RatePlanCode="BAR3" />
+        </AvailStatusMessage>
+        <AvailStatusMessage BookingLimitMessageType="SetLimit" BookingLimit="18">
+            <StatusApplicationControl Start="2015-10-10" End="2015-10-12" InvTypeCode="SDT" RatePlanCode="BAR3" />
+        </AvailStatusMessage>
+        <AvailStatusMessage BookingLimitMessageType="SetLimit" BookingLimit="18">
+            <StatusApplicationControl Start="2015-09-23" End="2015-09-23" InvTypeCode="SDT" RatePlanCode="BAR3" />
+        </AvailStatusMessage>
+        <AvailStatusMessage BookingLimitMessageType="SetLimit" BookingLimit="18">
+            <StatusApplicationControl Start="2015-10-17" End="2015-10-17" InvTypeCode="SDT" RatePlanCode="BAR3" />
+        </AvailStatusMessage>
+        <AvailStatusMessage BookingLimitMessageType="SetLimit" BookingLimit="18">
+            <StatusApplicationControl Start="2015-12-10" End="2015-12-10" InvTypeCode="SDT" RatePlanCode="BAR3" />
+        </AvailStatusMessage>
+        <AvailStatusMessage BookingLimitMessageType="SetLimit" BookingLimit="18">
+            <StatusApplicationControl Start="2015-12-30" End="2015-12-31" InvTypeCode="SDT" RatePlanCode="BAR3" />
+        </AvailStatusMessage>
+        <AvailStatusMessage BookingLimitMessageType="SetLimit" BookingLimit="18">
+            <StatusApplicationControl Start="2015-12-13" End="2015-12-13" InvTypeCode="SDT" RatePlanCode="BAR3" />
         </AvailStatusMessage>
     </AvailStatusMessages>
 </OTA_HotelAvailNotifRQ>
